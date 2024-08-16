@@ -1,0 +1,58 @@
+.form {
+    max-width: 600px;
+    height: auto;
+    float: none;
+    margin: auto;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius:6px;
+    background: #fff;
+    box-shadow: 1px 0px 1.2 0px #ccc;
+    position: relative;
+}
+
+.form label {
+    float: left;
+    width: 100%;
+    margin-bottom: 0.7em;
+    margin-top: 0.7em;
+    color: #444;
+    font-family: "Roboto", sans-serif;
+}
+
+.form input, .form textarea {
+    width: 100%;
+    font-size: 1em;
+    color: #555;
+    font-family: "Roboto", sans-serif;
+    border: 1px #0000FF solid;
+    border-radius: 4px;
+    padding: 0.6em;
+}
+
+.form textarea {
+    height: 300px;
+    max-height: 400px;
+}
+
+.form button {
+    width: 100%;
+    display: inline-block;
+    margin: 5px;
+    font-size: 1em;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    border: 1px #FFFFFF solid;
+    border-radius: 4px;
+    padding: 0.6em;
+    background-color: #0000FF;
+}
+
+#botoes {
+    width:100%;
+    text-align: center;
+}
+
+.botao {
+    display: inline-block;
+}
