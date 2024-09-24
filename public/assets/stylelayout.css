@@ -1,0 +1,9 @@
+* {
+    width: 100%;
+}
+
+.container {
+    width: 60%;
+    margin-left: 200px;
+    margin-right: 200px;
+}
