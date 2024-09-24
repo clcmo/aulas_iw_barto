@@ -13,6 +13,10 @@
     padding: auto;
 }
 
+.article {
+    margin: 50px;
+}
+
 .coluna {
     width: 5%;
     float: left;
