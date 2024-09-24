@@ -12,3 +12,11 @@
     margin-right: 200px;
     padding: auto;
 }
+
+.coluna {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    background-color: #FF00FF;
+    border-radius: 5px #000;
+  }
