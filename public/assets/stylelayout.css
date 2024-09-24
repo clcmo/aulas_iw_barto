@@ -14,9 +14,13 @@
 }
 
 .coluna {
-    width: 50%;
+    width: 5%;
     float: left;
     padding: 20px;
     background-color: #FF00FF;
-    border-radius: 5px #000;
+    border-radius: 5px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
   }
