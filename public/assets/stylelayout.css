@@ -28,12 +28,10 @@
 }
 
 .coluna {
-    float: left;
-    padding: 20px;
-    background-color: #FF00FF;
-    border-radius: 5px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
+    background-color: #FF00FF;
+    border-radius: 5px;
     margin: 10px;
   }
