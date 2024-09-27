@@ -11,6 +11,11 @@
     height: 15%;
     background-color: #333333;
     color: #FFFFFF;
+    text-align: center;
+}
+
+.title {
+    color: #FFFFFF;
 }
 
 .container {
