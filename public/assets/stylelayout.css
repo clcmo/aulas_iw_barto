@@ -7,8 +7,10 @@
     font-family: 'Roboto' sans-serif;
 }
 
-.header, .footer {
+.hero, .footer {
     height: 15%;
+    background-color: #333333;
+    color: #FFFFFF;
 }
 
 .container {
